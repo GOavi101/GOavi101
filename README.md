@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goavi101&show_icons=true&locale=en&layout=compact" alt="goavi101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goavi101&show_icons=true&locale=en" alt="GOavi101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goavi101&show_icons=true&locale=en" alt="goavi101" /></p>
