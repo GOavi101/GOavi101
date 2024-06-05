@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Advance Python Development**
 
-- 👯 I’m looking to collaborate with **Python Developers and DevOps Engineer**
+- 👯 I’m looking to collaborate with **Go Developers and DevOps Engineer**
 
-- 💬 Ask me about **Kubernetes , Docker , Python , flask , jenkins**
+- 💬 Ask me about **Kubernetes , Docker , Go **
 
 - 📫 How to reach me **avishek.official12@gmail.com**
 
