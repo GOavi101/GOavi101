@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/avi68490022" target="blank"><img src="https://img.shields.io/twitter/follow/avi68490022?logo=twitter&style=for-the-badge" alt="avi68490022" /></a> </p>
 
-- 🔭 I’m currently working for **Ericsson as a DevOps Engineer**
+- 🔭 I’m currently working for **IBM ISDL as a DevOps Engineer**
 
 - 🌱 I’m currently learning **Advance Python Development**
 
